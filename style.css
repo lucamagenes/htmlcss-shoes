@@ -33,7 +33,7 @@ main {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 46%;
+    text-align: center;
 }
 
 .shoes img {
@@ -41,8 +41,7 @@ main {
 }
 
 .shoes .modello {
-    text-align: center;
-    font-size: xx-large;
+    font-size: x-large;
     color: yellow;
 }
 
@@ -53,7 +52,7 @@ main {
 .pagine {
     position: fixed;
     top: 3rem;
-    right: 0;
+    right: 16%;
 }
 
 .pagine span {
