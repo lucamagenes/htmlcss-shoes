@@ -49,3 +49,21 @@ main {
 .yellow .modello {
     color: green;
 }
+
+.pagine {
+    position: absolute;
+    top: 3rem;
+    right: 0;
+}
+
+.pagine span {
+    margin: 1rem;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 100%;
+}
+
+.pagine a {
+    text-decoration: none;
+    color: black;
+}
