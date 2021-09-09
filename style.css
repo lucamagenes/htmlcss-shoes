@@ -16,15 +16,15 @@ main {
     position: relative;
 }
 
-.debug .red {
+.red {
     background-color: red;
 }
 
-.debug .green {
+.green {
     background-color: green;
 }
 
-.debug .yellow {
+.yellow {
     background-color: yellow;
 }
 
