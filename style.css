@@ -5,6 +5,10 @@
     font-family: 'Rubik Mono One', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 main {
     width: 70%;
     margin: auto;
