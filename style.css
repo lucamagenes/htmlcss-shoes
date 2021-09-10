@@ -53,6 +53,7 @@ main {
     position: fixed;
     top: 3rem;
     right: 16%;
+    z-index: 100;
 }
 
 .pagine span {
