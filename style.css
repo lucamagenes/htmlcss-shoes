@@ -10,7 +10,6 @@ html {
 }
 
 main {
-    width: 70%;
     margin: auto;
 }
 
@@ -56,7 +55,7 @@ main {
 .pagine {
     position: fixed;
     top: 3rem;
-    right: 16%;
+    right: 3rem;
     z-index: 100;
 }
 
@@ -64,7 +63,7 @@ main {
     margin: 1rem;
     background-color: white;
     padding: 1rem;
-    border-radius: 100%;
+    border-radius: 50px;
 }
 
 .pagine a {
